@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+    background-color: rgba(228, 225, 225, 0.844);
+}
+h1, h2, h3{
+    color: rgb(21, 1, 1);
+    font: normal 25px;
+}
+p{
+    color: rgb(26, 26, 26);
+    font: normal 15px arial;
+}
+a{
+    color: rgba(24, 47, 224, 0.837);
+}
