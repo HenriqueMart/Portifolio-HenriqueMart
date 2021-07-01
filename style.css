@@ -1,7 +1,7 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgba(228, 225, 225, 0.844);
+    background-color: rgba(0, 0, 0, 0.234);
     text-align: center;
 }
 h1, h2, h3{
@@ -9,12 +9,10 @@ h1, h2, h3{
     font: normal 25px;
 }
 p{
-    color: rgb(26, 26, 26);
+    color: rgba(0, 0, 0, 0.877);
     font: normal 15px arial;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 a{
     color: rgba(24, 47, 224, 0.837);
-}
-ul, li{
-    text-align: center;
 }
