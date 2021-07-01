@@ -2,6 +2,7 @@
 
 body{
     background-color: rgba(228, 225, 225, 0.844);
+    text-align: center;
 }
 h1, h2, h3{
     color: rgb(21, 1, 1);
@@ -13,4 +14,7 @@ p{
 }
 a{
     color: rgba(24, 47, 224, 0.837);
+}
+ul, li{
+    text-align: center;
 }
