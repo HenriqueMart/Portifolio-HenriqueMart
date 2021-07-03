@@ -16,3 +16,7 @@ p{
 a{
     color: rgb(84, 71, 201);
 }
+li, ul, ol{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
