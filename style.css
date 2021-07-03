@@ -16,7 +16,6 @@ p{
 a{
     color: rgb(84, 71, 201);
 }
-li, ul, ol{
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+li{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
