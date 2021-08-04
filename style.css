@@ -1,11 +1,15 @@
 @charset "UTF-8";
 
 body{
-    background-color: rgba(0, 0, 0, 0.234);
+    background-color: rgba(177, 177, 177, 0.234);
+    background-image: linear-gradient(to bottom ,#dae1e1, #B8C1B7 );
     text-align: center;
 }
-h1, h2, h3{
-    color: rgb(21, 1, 1);
+h1{
+    
+}
+h2, h3{
+    color: #353535;
     font: normal 25px;
 }
 p{
