@@ -2,7 +2,7 @@
 
 body{
     background-color: rgba(177, 177, 177, 0.234);
-    background-image: linear-gradient(to bottom ,#dae1e1, #B8C1B7 );
+    background-image: linear-gradient(to bottom ,#F0F0F0, #DBDBDB );
     text-align: center;
 }
 h1{
@@ -11,12 +11,12 @@ h1{
 }
 h2, h3{
     color: rgb(36, 36, 36);
-    font: normal 25px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 p{
-    color: rgba(0, 0, 0, 0.877);
-    font: normal 15px arial;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(19, 19, 22);
+    font-family: "Trebuchet MS", Helvetica, sans-serif ;
+    text-align: center;
 }
 a{
     color: #0D1EDB;
