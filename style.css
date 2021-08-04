@@ -6,10 +6,11 @@ body{
     text-align: center;
 }
 h1{
-    
+    font-family: Garamond, Arial, sans-serif;
+    color: #060D61;
 }
 h2, h3{
-    color: #353535;
+    color: rgb(36, 36, 36);
     font: normal 25px;
 }
 p{
@@ -18,7 +19,7 @@ p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 a{
-    color: rgb(84, 71, 201);
+    color: #0D1EDB;
 }
 li{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
