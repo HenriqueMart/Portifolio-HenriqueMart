@@ -4,6 +4,7 @@ body{
     background-color: rgba(177, 177, 177, 0.234);
     background-image: linear-gradient(to bottom ,#F0F0F0, #DBDBDB );
     text-align: center;
+    font-size: 1.2em;
 }
 h1{
     font-family: Garamond, Arial, sans-serif;
