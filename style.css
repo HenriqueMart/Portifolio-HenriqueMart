@@ -4,20 +4,23 @@ body{
     background-color: rgba(177, 177, 177, 0.234);
     background-image: linear-gradient(to bottom ,#F0F0F0, #DBDBDB );
     text-align: center;
-    font-size: 1.2em;
+    font-size: 1em;
 }
 h1{
     font-family: Garamond, Arial, sans-serif;
     color: #060D61;
+    font-size: 2em;
 }
 h2, h3{
     color: rgb(36, 36, 36);
     font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.7em;
 }
 p{
     color: rgb(19, 19, 22);
     font-family: "Trebuchet MS", Helvetica, sans-serif ;
     text-align: center;
+    font-size: 1em;
 }
 a{
     color: #0D1EDB;
