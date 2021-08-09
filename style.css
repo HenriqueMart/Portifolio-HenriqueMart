@@ -31,11 +31,11 @@ p{
     font-weight: 300;
     font-family: 'Open Sans', sans-serif ;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.1em;
 }
 a{
     color: #0D1EDB;
-    font-size: 1.2em;
+    font-size: 1em;
     font-family: 'Flamenco', cursiva;
     font-weight: 400;
     font-style: oblique;
@@ -43,4 +43,5 @@ a{
 li{
     font-family: 'Open Sans', sans-serif;
     font-size: 1em;
+    font-style: inherit;
 }
