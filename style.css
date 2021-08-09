@@ -2,8 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2? family = Varela + Round & display = swap');
 
-@import url('https://fonts.googleapis.com/css2? family = Khand: wght @ 300; 400; 500; 600; 700 & display = swap');
-
 @import url('https://fonts.googleapis.com/css2? family = Flamenco: wght @ 300; 400 & display = swap'); 
 
 @import url('https://fonts.googleapis.com/css2? family = Open + Sans: ital, wght @ 0,300; 0,400; 0,600; 0,700; 1,300; 1,400; 1,600 & display = swap'); 
@@ -21,17 +19,15 @@ h1{
     font: normal 300 2.6em 'Flamenco', cursiva;
 }
 h2, h3{
-    color: rgb(36, 36, 36);
+    color: rgba(0, 0, 0, 0.898);
     font-family:'Varela Round', sans-serif;
-    font-size: 1.7em;
+    font-size: 1.6em;
+    font-weight: 500;
 }
 p{
     color: rgb(19, 19, 22);
-    font-style: normal;
-    font-weight: 300;
-    font-family: 'Open Sans', sans-serif ;
     text-align: center;
-    font-size: 1.1em;
+    font: normal 300 1.1em 'Open Sans', sans-serif;
 }
 a{
     color: #0D1EDB;
