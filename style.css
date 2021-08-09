@@ -35,10 +35,7 @@ p{
 }
 a{
     color: #0D1EDB;
-    font-size: 1em;
-    font-family: 'Flamenco', cursiva;
-    font-weight: 400;
-    font-style: oblique;
+    font: oblique 400 1em 'Flamenco', cursiva;
 }
 li{
     font-family: 'Open Sans', sans-serif;
