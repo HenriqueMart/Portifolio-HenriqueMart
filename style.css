@@ -24,9 +24,10 @@ h2, h3{
     font-size: 1.6em;
     font-weight: 500;
 }
-p{
+p, q{
     color: rgb(19, 19, 22);
     text-align: center;
+    text-indent: 1rem;
     font: normal 300 1.1em 'Open Sans', sans-serif;
 }
 a{
